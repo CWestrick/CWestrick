@@ -1,4 +1,4 @@
-## Hi, im Connor Westrick👋
+## Hi, I'm Connor Westrick👋
 Currently majoring in CS at Ohio University.
 
 TOOLS/SKILLS:
